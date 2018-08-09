@@ -1088,6 +1088,7 @@ a.social:hover {
 .tickets iframe {
   margin: 0 auto;
   max-width: 1080px;
+  height: 580px;
 }
 .previous {
   display: -webkit-box;

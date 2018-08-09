@@ -226,7 +226,7 @@
     margin: 20px 0;
   }
   #tickets .tickets iframe {
-    height: 406px;
+    height: 612px;
   }
   #previous .container {
     width: 100%;
@@ -317,6 +317,9 @@
   #day2 {
     display: none;
   }
+  #tickets .tickets iframe {
+    height: 612px;
+  }
   .sponsors-wrap .sponsors .sponsors__group .sponsors__item:last-child {
     margin-right: 0;
   }
@@ -372,7 +375,7 @@
     font-size: 10px;
   }
   #tickets .tickets iframe {
-    height: 487px;
+    height: 630px;
   }
   #about .about__event {
     padding: 20px 0;
